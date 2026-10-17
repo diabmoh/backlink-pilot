@@ -48,6 +48,14 @@ overseas_ai_directories:
     status: paid
     notes: "Paid $29, no longer free"
 
+  - name: Public Prompts
+    submit_url: https://www.publicprompts.art/submit
+    type: form
+    auto: no
+    lang: en
+    status: paid
+    notes: "AI-tools directory. Owner review costs US$19.99 once plus tax; free browsing only. Accepted listings publish within two days of payment; rejected submissions refunded. Tool links are nofollow. Account and payment required; no reciprocal link."
+
   - name: AI Valley
     submit_url: https://aivalley.ai/submit-tool/
     type: form
